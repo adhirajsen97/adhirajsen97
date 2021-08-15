@@ -1,4 +1,8 @@
-![[GitHub Profile README Header Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmUUj_l_rZSQZ9Wv8yYObvLmSJtqQhI7MXw&usqp=CAU)]
+![GitHub Profile README Header Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmUUj_l_rZSQZ9Wv8yYObvLmSJtqQhI7MXw&usqp=CAU)
+
+<p>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
 Hey There, I am Adhiraj Sen.
 
 
