@@ -1,6 +1,3 @@
-# ![GitHub Profile README Header Image] <a href="https://data.whicdn.com/images/255611435/original.jpg"><img width="100%" align='center'"></a>
-
-
 Hey There, I am Adhiraj Sen.
 
 
