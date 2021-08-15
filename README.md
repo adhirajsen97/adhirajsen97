@@ -1,4 +1,4 @@
-![GitHub Profile README Header Image Generator - you shouldn't be seeing this text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmUUj_l_rZSQZ9Wv8yYObvLmSJtqQhI7MXw&usqp=CAU)
+![[GitHub Profile README Header Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmUUj_l_rZSQZ9Wv8yYObvLmSJtqQhI7MXw&usqp=CAU)]
 Hey There, I am Adhiraj Sen.
 
 
