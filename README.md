@@ -1,6 +1,6 @@
 ## <h1 float=left>Hi, I'm Adhiraj! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/handsinair.gif" height="28px" width="50px"> </h1>
 ### <h3>A brief Intro: </h3>
-   I am a coding enthusiast with an affinity towards seeking healthy challenges:rocket:. I have worked with programs rangnig from server-side APIs to User-Driven Development to achieve a holistic process. I periodically contribute to my profile to sharpen my skills, dabble with hobbies or browse open sourced projects I could contribute towards. 
+   I am a coding enthusiast with an affinity towards seeking healthy challenges:rocket:. I have worked with programs ranging from server-side APIs to User-Driven Development to achieve a holistic process. I periodically contribute to my profile to sharpen my skills, dabble with hobbies or browse open sourced projects I could contribute towards. 
 
 -------
 
