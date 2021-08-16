@@ -31,6 +31,6 @@
 
 <h3> Summary 📖 </h3>                                                                                                               
                                                                                                                                     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajsen97&hide=jupyter%20notebook&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajsen97&hide=jupyter%20notebook,html&theme=dark)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adhirajsen97&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adhirajsen97&show_icons=true&hide=issues&theme=onedark)
