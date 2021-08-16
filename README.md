@@ -27,6 +27,6 @@
 
 <h3>**Summary**</h3><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajsen97&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajsen97&layout=compact) 
 <br><br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adhirajsen97&show_icons=true&theme=gotham" alt="adhirajsen97" />
