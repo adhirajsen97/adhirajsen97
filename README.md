@@ -17,7 +17,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"> AWS</code>
 <br><br>
 
-<h3> **Find Me Elsewhere 🌏** </h3>
+<h3> Find Me Elsewhere 🌏 </h3>
 <a href="mailto:adhiraj.msm@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"height="45"/></a> </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/adhiraj-sen-30841b144"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="45"/></a>
 </a>&nbsp;&nbsp;
@@ -25,8 +25,11 @@
 <a href="https://discordapp.com/users/adi-|#3257/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" height="45"/></a> </a>&nbsp;&nbsp;
 <a href="https://stackexchange.com/users/22476239/adhiraj-sen"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" height="45"/></a></a>&nbsp;&nbsp; <br><br>
 
-<h3>**Summary**</h3><br>
+<h3> Summary </h3><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajsen97&layout=compact) 
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adhirajsen97&langs_count=5&hide=jupyter%20notebook,html&theme=tokyonight)
+
 <br><br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adhirajsen97&show_icons=true&theme=gotham" alt="adhirajsen97" />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adhirajsen97&hide=issues&theme=onedark)
+
+
