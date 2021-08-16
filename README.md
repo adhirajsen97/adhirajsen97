@@ -25,7 +25,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@_adi_"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"height="45"/></a> </a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/adi-|#3257/"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord" height="45"/></a> </a>&nbsp;&nbsp;
-<a href="https://stackexchange.com/users/22476239/adhiraj-sen"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" height="45"/></a></a>&nbsp;&nbsp; <br><br>
+<a href="https://stackexchange.com/users/22476239/adhiraj-sen"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow" height="45"/></a></a>&nbsp;&nbsp; <br>
 
 ---------
 
