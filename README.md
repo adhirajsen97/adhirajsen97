@@ -1,10 +1,4 @@
 
-what is a good format for stats/etc to display on my github portfolio?
-
-give me a fully formatted, niuce and ready .md that I can just paste into the file, 
-this is my old one. 
-this is my personal portfolio site, "https://www.adhirajsen.com/", my linkedin, "https://www.linkedin.com/in/adhirajsen/", I am working on adding blog to my portfolio site itself, and i will cross port on medium/linkedin maybe sub-stack as well.
-
 ## <h1 float=left>Hi, I'm Adhiraj! <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/handsinair.gif" height="28px" width="50px"> </h1>
 
 ### <h3>A brief Intro: </h3>
