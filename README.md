@@ -94,9 +94,10 @@ const adi = {
 ---
 
 ### 📊 Stats
-<img src="https://github.com/cheehwatang/cheehwatang/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-<img src="https://github.com/cheehwatang/cheehwatang/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-    <!-- Github Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhirajsen97/adhirajsen97/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adhirajsen97/adhirajsen97/output/github-snake.svg" />
+</picture>
 <a href="#gh-dark-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhirajsen97&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
 </a>
