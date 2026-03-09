@@ -7,9 +7,9 @@ Forward Deployed Engineer with 4+ years building resilient backend architectures
 CS grad student at [UT Arlington](https://www.uta.edu);  
 Writing about engineering & building in public on [adhirajsen.com](https://www.adhirajsen.com/) and [https://medium.com/@_adi_](https://medium.com/@_adi_)
 
-[![Portfolio](https://img.shields.io/badge/-adhirajsen.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.adhirajsen.com/)
-[![LinkedIn](https://img.shields.io/badge/-adhirajsen-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhirajsen/)
-[![Medium](https://img.shields.io/badge/-@__adi__-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@_adi_)
+[![Portfolio](https://img.shields.io/badge/-adhirajsen.com-3A5A40?style=flat-square&logo=javascript&logoColor=white)](https://www.adhirajsen.com/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-4470AD?style=flat-square&logo=lobsters&logoColor=white)](https://www.linkedin.com/in/adhirajsen/)
+[![Medium](https://img.shields.io/badge/-medium-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@_adi_)
 [![GitHub followers](https://img.shields.io/github/followers/adhirajsen97?label=follow&style=social)](https://github.com/adhirajsen97)
 
 ---
@@ -26,8 +26,8 @@ const adi = {
         data:      ["PostgreSQL", "MySQL", "Redis"],
         infra:     ["AWS", "Docker", "Git", "Linux"]
     },
-    currentBuild: "Consumer health SaaS — document management & intelligent search for cross-border healthcare",
-    research:     "AI/ML model supply chain security (USENIX Security 2025)",
+    currentBuild: ["Consumer health SaaS — document management & intelligent search for cross-border healthcare",
+                   "Multi Spec AI Agent - sdlc pipeline for project development through a team of AI agents"],
     interests:    ["AI agent systems", "programmatic SEO", "growth engineering"],
     funFact:      "I debug code and kayak through canyons with the same intensity"
 };
