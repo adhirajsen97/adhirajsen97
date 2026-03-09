@@ -94,10 +94,12 @@ const adi = {
 ---
 
 ### 📊 Stats
+**Contribution**&emsp;
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhirajsen97/adhirajsen97/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhirajsen97/adhirajsen97/output/github-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/adhirajsen97/adhirajsen97/output/github-snake.svg" />
 </picture>
+
 <a href="#gh-dark-mode-only">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhirajsen97&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
 </a>
